@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft OneNote
+Comment=Microsoft Online App OneNote
+Exec=x-www-browser http://www.onenote.com/notebooks
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=application-document
+Categories=Microsoft Online Apps;Office;

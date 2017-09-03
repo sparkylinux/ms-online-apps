@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft Excel
+Comment=Microsoft Online App Excel
+Exec=x-www-browser https://office.live.com/start/Excel.aspx
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=application-table
+Categories=Microsoft Online Apps;Office;

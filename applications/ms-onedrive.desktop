@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft OneDrive
+Comment=Microsoft Online App OneDrive
+Exec=x-www-browser https://onedrive.live.com
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=application-web-template
+Categories=Microsoft Online Apps;Office;

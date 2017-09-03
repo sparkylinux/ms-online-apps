@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft People
+Comment=Microsoft Online App People
+Exec=x-www-browser https://people.live.com/
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=application-users
+Categories=Microsoft Online Apps;Office;

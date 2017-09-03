@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft PowerPoint
+Comment=Microsoft Online App PowerPoint
+Exec=x-www-browser https://office.live.com/start/PowerPoint.aspx
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=application-presentation
+Categories=Microsoft Online Apps;Office;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft Calendar
+Comment=Microsoft Online App Calendar
+Exec=x-www-browser https://calendar.live.com/
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=x-office-calendar
+Categories=Microsoft Online Apps;Office;

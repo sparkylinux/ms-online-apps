@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft Word
+Comment=Microsoft Online App Word
+Exec=x-www-browser https://office.live.com/start/Word.aspx
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=application-word
+Categories=Microsoft Online Apps;Office;

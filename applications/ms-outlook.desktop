@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Microsoft Outlook
+Comment=Microsoft Online App Outlook
+Exec=x-www-browser https://outlook.com/
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=text-x-vcard
+Categories=Microsoft Online Apps;Office;
